@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cluster_170" uploadOnCheckin="ccd117bf-e753-4e5c-a429-a52dd4049d63">
+    <serverData>
+      <paths name="cluster_170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/cluster" local="$PROJECT_DIR$" web="/cluster" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="cluster_170" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
